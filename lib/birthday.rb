@@ -16,4 +16,11 @@ def age_appropriate_birthday(age_appropriate)
     puts "Happy Birthday #{name}! You are now #{age_appropriate} years old!"
   end
 end
-
+ #winner = ""
+#passengers.each do |suite, name|
+ # if suite == :suite_a && name.start_with?("A")
+  #  winner = name
+  #end
+#end
+#winner
+#end
